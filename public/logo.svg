@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #3d465d;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-790" y1="720.7" x2="-790" y2="640.7" gradientTransform="translate(830 720.7) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#71cf93"/>
+      <stop offset="1" stop-color="#59b15c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-790" y1="720.95" x2="-790" y2="677.45" gradientTransform="translate(830 720.7) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#85dfaf"/>
+      <stop offset="1" stop-color="#69c581"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g id="green_body_square" data-name="green body square">
+        <g id="Symbol_32_0_Layer0_0_FILL" data-name="Symbol 32 0 Layer0 0 FILL">
+          <path class="cls-1" d="M80,14c-.17-6.67-3.68-10-10.55-10H10.5C3.67,4,.17,7.33,0,14v55.95c.17,6.7,3.67,10.05,10.5,10.05h58.95c6.87,0,10.38-3.35,10.55-10.05V14Z"/>
+          <path class="cls-2" d="M80,10.5c0-7-3.52-10.5-10.55-10.5H10.5C3.5,0,0,3.5,0,10.5v3.5C.17,7.33,3.67,4,10.5,4h58.95c6.87,0,10.38,3.33,10.55,10v-3.5Z"/>
+        </g>
+      </g>
+      <g id="face_a" data-name="face a">
+        <g id="Symbol_91_0_Layer0_0_MEMBER_0_FILL" data-name="Symbol 91 0 Layer0 0 MEMBER 0 FILL">
+          <path class="cls-3" d="M13.53,27.01c-2.34,2.54-3.51,5.58-3.51,9.11s1.17,6.61,3.51,9.11c2.3,2.54,5.1,3.81,8.39,3.81s6.09-1.27,8.39-3.81c2.34-2.5,3.51-5.54,3.51-9.11s-1.17-6.57-3.51-9.11c-2.3-2.54-5.1-3.81-8.39-3.81s-6.09,1.27-8.39,3.81Z"/>
+        </g>
+        <g id="Symbol_91_0_Layer0_0_MEMBER_1_FILL" data-name="Symbol 91 0 Layer0 0 MEMBER 1 FILL">
+          <path class="cls-4" d="M26.98,41.61c1.39-1.51,2.08-3.34,2.08-5.49s-.69-3.92-2.08-5.43c-1.39-1.55-3.07-2.33-5.06-2.33s-3.61.78-5,2.33c-1.43,1.51-2.14,3.32-2.14,5.43s.71,3.98,2.14,5.49c1.39,1.51,3.05,2.26,5,2.26s3.67-.75,5.06-2.26Z"/>
+        </g>
+        <g id="Symbol_91_0_Layer0_1_MEMBER_0_FILL" data-name="Symbol 91 0 Layer0 1 MEMBER 0 FILL">
+          <path class="cls-3" d="M49.22,27.01c-2.34,2.54-3.51,5.58-3.51,9.11s1.17,6.61,3.51,9.11c2.3,2.54,5.1,3.81,8.39,3.81s6.09-1.27,8.39-3.81c2.34-2.5,3.51-5.54,3.51-9.11s-1.17-6.57-3.51-9.11c-2.3-2.54-5.1-3.81-8.39-3.81s-6.09,1.27-8.39,3.81Z"/>
+        </g>
+        <g id="Symbol_91_0_Layer0_1_MEMBER_1_FILL" data-name="Symbol 91 0 Layer0 1 MEMBER 1 FILL">
+          <path class="cls-4" d="M62.67,41.61c1.39-1.51,2.08-3.34,2.08-5.49s-.69-3.92-2.08-5.43c-1.39-1.55-3.07-2.33-5.06-2.33s-3.61.78-5,2.33c-1.43,1.51-2.14,3.32-2.14,5.43s.71,3.98,2.14,5.49c1.39,1.51,3.05,2.26,5,2.26s3.67-.75,5.06-2.26Z"/>
+        </g>
+        <g id="Symbol_91_0_Layer0_2_FILL" data-name="Symbol 91 0 Layer0 2 FILL">
+          <path class="cls-4" d="M49.52,57.38v-.06c.48-.39.93-.78,1.37-1.16.48-.47.73-1.06.77-1.74.04-.73-.16-1.36-.59-1.87-.44-.56-.97-.86-1.61-.9-.67-.04-1.25.17-1.73.65-.32.3-.65.6-1.01.9h-.06c-1.9,1.55-4.2,2.33-6.9,2.33s-5.14-.78-7.08-2.33c-.24-.22-.46-.43-.65-.65-.44-.56-.97-.86-1.61-.9-.67-.04-1.25.17-1.73.65-.52.47-.79,1.08-.83,1.81-.04.69.16,1.31.59,1.87.36.43.79.86,1.31,1.29.04,0,.06.02.06.06,2.74,2.24,6.05,3.36,9.93,3.36s7.06-1.1,9.76-3.3Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
